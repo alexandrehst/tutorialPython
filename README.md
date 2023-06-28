@@ -21,7 +21,7 @@ Sempre que possível, vamos focar no que é mais genéricos, mas verdade seja di
 
 Siga cada seção de estudo abaixo. Ao final, reúna-se como tutor para rever os códigos e os objetivos de aprendizagem. Iremos explorar os seguintes tópicos:
 
-1. (Aquecimento)
+1. (Aquecimento)vdv
 1. Banco de dados
 1. Orientação a objetos
 1. ORM
