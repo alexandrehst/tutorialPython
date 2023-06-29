@@ -23,7 +23,7 @@ Siga cada seção de estudo abaixo. Ao final, reúna-se como tutor para rever os
 
 1. [Aquecimento](Parte1.md)
 1. [Banco de dados](Parte2.md)
-1. Orientação a objetos
+1. [Orientação a objetos](Parte3.md)
 1. ORM
 1. Web Framework
 1. RESTFul services
